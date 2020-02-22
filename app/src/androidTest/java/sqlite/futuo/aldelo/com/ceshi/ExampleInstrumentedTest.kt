@@ -9,7 +9,7 @@ import org.junit.runner.RunWith
 import org.junit.Assert.*
 
 /**
- * Instrumented test, which will execute on an Android device.
+ * Instrumented test, which will execute on an Android device.K
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
@@ -20,6 +20,10 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("sqlite.futuo.aldelo.com.ceshi", appContext.packageName)
+
+
+
+
 
 
 
